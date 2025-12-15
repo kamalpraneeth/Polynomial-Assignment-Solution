@@ -1,0 +1,2 @@
+First Test Case Secret (f(0)) = 3
+Second Test Case Secret (f(0)) = -6290016743746469883
